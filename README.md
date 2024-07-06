@@ -1,4 +1,4 @@
 # DoS-tools
-making a DoS tool, udp flood and prob a icmp too
-DoS tool 
-soon to add DDoS version
+making a DoS tool, udp flood and prob a icmp too \n
+DoS tool  \n
+soon to add DDoS version \n
